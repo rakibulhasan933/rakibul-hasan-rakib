@@ -1,0 +1,10 @@
+.service {
+    color: black;
+    border-radius: 5px;
+    border: 5px solid #b7f5f5;
+    transition: transform ease-in-out 0.5s;
+}
+
+.service:hover{
+    transform: scale(1.05);
+}

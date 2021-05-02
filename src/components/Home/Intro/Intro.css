@@ -1,0 +1,32 @@
+.intro {
+    width: 70%;
+    margin: auto;
+    height: 960px;
+    padding: 95px;
+}
+
+.intro-img img{
+    border: 5px solid #0bc2c2;
+    border-radius: 0px 100px 0px 100px;   
+}
+
+.intro-description {
+    font-family: Russo One, sans-serif;
+    font-size: 55px;
+}
+
+@media only screen and (max-width: 770px) { 
+
+    .intro-description {
+        font-size: 40px;
+        margin-top: 100px;
+    }
+
+    .intro {
+        padding: 0px;
+    }
+
+    .intro-img img{
+        border-radius: 0px 50px 0px 50px;   
+    }
+}
