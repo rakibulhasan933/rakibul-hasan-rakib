@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site": "rakibulhasanrakib",
     "public": "build",
     "ignore": [
       "firebase.json",
