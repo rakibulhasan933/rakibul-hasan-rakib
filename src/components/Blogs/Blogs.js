@@ -27,13 +27,6 @@ const Blogs = () => {
         <div style={{ backgroundColor: "#1a3d5d", color: "white" }}>
             <h1 className="heading text-center pb-3 mt-5 pt-5"><span style={{ borderBottom: '5px solid #0bc2c2' }} className="">My <span style={{ color: '#0bc2c2' }}>Blogs</span></span></h1>
             <h1 className="text-center" style={{ color: 'red' }} >COMING SOON</h1>
-            {/* <div className="custom-container">
-                <div className="row mt-5 mb-5 ml-2 mr-2">
-                    {
-                        blogData.map(blog => <Blog blog={blog} />)
-                    }
-                </div>
-            </div> */}
         </div>
     );
 };
