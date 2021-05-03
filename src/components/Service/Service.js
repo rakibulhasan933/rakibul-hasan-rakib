@@ -7,7 +7,7 @@ const Service = ({ service }) => {
         <div className="col-lg-6 col-xl-4 col-md-6 col-sm-12 col-xm-12 d-flex justify-content-center mb-3" data-aos="fade-up" data-aos-duration="1000">
             <div className="card service">
                 <div className="card-img-top border">
-                    <img src={img} style={{ height: '150px' }} alt="" />
+                    <img className="img-fluid" src={img} alt="" />
                 </div>
 
                 <div className="card-body">
