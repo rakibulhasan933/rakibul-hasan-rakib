@@ -4,11 +4,10 @@ import NavigateBeforeIcon from '@material-ui/icons/NavigateBefore';
 import NavigateNextIcon from '@material-ui/icons/NavigateNext';
 import './Project.css';
 import { Badge } from '@material-ui/core';
-import { Markup } from 'interweave';
 import React from 'react';
 
 const Project = ({ project }) => {
-    const { projectName, img1, img2, img3, description, liveWebsite, github, id, technology } = project;
+    const { projectName, img1, img2, img3, liveWebsite, github, id, technology } = project;
     return (
         <div className="mt-5">
             <div className="row single-project d-flex align-items-center">
@@ -40,7 +39,6 @@ const Project = ({ project }) => {
                 </div>
                 <div className="col-md-6">
                     <h2 style={{ color: '#1a3d5d', fontWeight: '700' }}>{projectName}</h2>
-                    {/* <Markup content={description} /> */}
                     <h4 style={{ color: '#1a3d5d', fontWeight: '700' }} className="mt-2 mb-2">Technology</h4>
                     <div>
                         {
