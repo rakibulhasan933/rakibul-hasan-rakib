@@ -1,9 +1,9 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyAzgy5FmNry8_-eH4kyN79_7XD9z-hcHwc",
-    authDomain: "rakibulhasanrakib-c4824.firebaseapp.com",
-    projectId: "rakibulhasanrakib-c4824",
-    storageBucket: "rakibulhasanrakib-c4824.appspot.com",
-    messagingSenderId: "160139478338",
-    appId: "1:160139478338:web:6861780aad926980d174db"
+    apiKey: "AIzaSyBnBO2qHWuseWGSDXK_AW5zfmPzhB3E-lM",
+    authDomain: "rakibulhasan-rakib.firebaseapp.com",
+    projectId: "rakibulhasan-rakib",
+    storageBucket: "rakibulhasan-rakib.appspot.com",
+    messagingSenderId: "899771758563",
+    appId: "1:899771758563:web:07c3b56e4887bd257a12d6"
 };
 export default firebaseConfig;
