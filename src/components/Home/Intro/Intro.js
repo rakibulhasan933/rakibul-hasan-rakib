@@ -11,7 +11,7 @@ const Intro = () => {
                     <div >
                         <h1 className="intro-description">Hello, <br /> I am <span style={{ color: 'black' }}>Rakibul Hasan</span></h1>
                         <h4>
-                            Front End Developer",<br /> "React Developer"
+                            <span style={{ color: 'green' }}  > Web Developer</span> <br /> <span style={{ color: 'red' }} > React Developer</span>
                         </h4>
                         <p>I am  JavaScript developer with knowing some framework for the frontend and the backend. I know a MERN developer. </p>
                         <Social />
