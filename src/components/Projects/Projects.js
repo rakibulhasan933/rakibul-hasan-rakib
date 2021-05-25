@@ -8,18 +8,18 @@ export const projectData = [
         img2: 'https://i.ibb.co/q913j40/order.png',
         img3: 'https://i.ibb.co/C28BKZ7/admin.png',
         description: "It is an agency website, which serves some services like web development, graphics design, mobile application design, photography etc. All the facilities of this website are listed here:<ul><li>Admin can see all order lists of the users and change the order's status by drop down menu.</li><li>Admin can add more services</li><li>Admin can make a person 'Admin' by providing those person's email.</li><li>User can order a service by providing a demo picture</li><li>User can see his all orders and order's status.</li><li>User can submit a review about a service, which are shown in the homepage randomly.</li></ul>",
-        liveWebsite: 'https://creative-agency18.web.app/',
+        liveWebsite: 'https://bb-network-5f38e.web.app/',
         github: 'https://github.com/Porgramming-Hero-web-course/complete-website-client-rakibulhasan933',
         technology: ['HTML5', 'CSS3', 'Bootstrap4', 'React Bootstrap', 'JavaScript', 'React.js', 'React Router', 'Material UI', 'Node.js', 'Express.js', 'MongoDB']
     },
     {
         id: 2,
-        projectName: 'Volunteer Network',
+        projectName: 'Walker t-shirt',
         img1: 'https://i.ibb.co/7zqJVjp/home1.png',
         img2: 'https://i.ibb.co/tKbJNwY/register.png',
         img3: 'https://i.ibb.co/r4SDwF9/event.png',
         description: "It is a website for registering volunteers in many events and manage them. I have listed below some features of it.<ul><li>Volunteers can register for work.</li><li>User and Admin can sign up and log in to this website using google.</li><li>User can register for an event.</li><li>User can see his/her all registered event list.</li><li>There is a dashboard for admin by which admin can maintain and delete the registration request of the users.</li></ul>",
-        liveWebsite: 'https://volunteer-network18.web.app/',
+        liveWebsite: 'https://store-t-shirt-walker.web.app/',
         github: 'https://github.com/Porgramming-Hero-web-course/full-stack-client-rakibulhasan933',
         technology: ['HTML5', 'CSS3', 'Bootstrap4', 'React Bootstrap', 'JavaScript', 'React JS', 'React Router', 'Material UI', 'Node JS', 'Express JS', 'MongoDB']
     }
